@@ -2,12 +2,26 @@
  <html>
   <head>
   <style>
+  *{font: Helvetica;
+  }
   
+  title{
+   font-size: 100px;
+   text-align: center;
+   color: #FFFFFF;
+   background-color: #000000;
+  }
+  
+  li{
+  font-size: 50px;
+  text-algin: center;
+  color: #FFFFFF;
+  background-color: #0000FF;
+  }
   </style>
-  
-    <title> The First Five Practice Projects</title>
   </head>
   
+ <title> The First Five Practice Projects</title>
   <body>
       <ol>
         <li>Game of Thrones Final Season Predictions</li>
