@@ -1,11 +1,9 @@
-<!DOCTYPE HTML>
- <html>
-  <head>
-  <style>
-  *{font: Helvetica;
-  }
-  
-  title{
+<!DOCTYPE html>
+<html>
+<head>
+  <style>   
+  h1{
+   font-family: Arial;
    font-size: 100px;
    text-align: center;
    color: #FFFFFF;
@@ -13,6 +11,7 @@
   }
   
   li{
+  font-family: Arial;  
   font-size: 50px;
   text-algin: center;
   color: #FFFFFF;
@@ -21,7 +20,7 @@
   </style>
   </head>
   
- <title> The First Five Practice Projects</title>
+ <h1>The First Five Practice Projects</h1>
   <body>
       <ol>
         <li>Game of Thrones Final Season Predictions</li>
@@ -33,7 +32,7 @@
           <!--We'll go ham on that CSS. Want it to look exactly like CNN-->
         <li>What NWA Member are you quiz <b>OR</b></li>
           <!--will probably have to look up how to make a quiz-->
-        <li>Choose your own adventure</li>      
+        <li>Choose your own adventure</li>     
       </ol>
    </body>   
- </html>
+</html>
